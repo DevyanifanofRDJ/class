@@ -1,0 +1,34 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+table
+{
+    background-color: blanchedalmond;
+    border-width: 10px;
+    border-style: groove;
+    border-color: brown;
+    width: 100%;
+    border-radius: 5px;
+}
+
+#heading
+{
+    background-color: cadetblue;
+    font-size: 60px;
+    color: chocolate;
+}
+
+#row1
+{
+    background-color: coral;
+    text-align: center;
+}
+
+#row2
+{
+    background-color: burlywood;
+    text-align: center;
+}
