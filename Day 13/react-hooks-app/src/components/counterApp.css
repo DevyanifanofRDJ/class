@@ -1,0 +1,12 @@
+.disp{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 3px groove black;
+}
+.header{
+  width: 80%;
+  height: 40px;
+  font-size: 30px;
+  color: blueviolet;
+}
