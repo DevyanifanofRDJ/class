@@ -1,0 +1,15 @@
+ul{
+    display:flex;
+    background-color: black;
+    gap: 20px;
+    list-style-type: none;
+    box-shadow: 10px 10px 10px;
+}
+li{
+    padding: 10px;
+    border-radius: 5px;
+}
+li a{
+    text-decoration:none;
+    color: aliceblue;
+}
